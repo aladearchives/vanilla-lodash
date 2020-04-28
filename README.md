@@ -2,7 +2,7 @@
 This is an Implementation of Lodash Library Functions, using Vanilla Javascript
 
 ## What is Lodash?
-Lodash is a Javascript Utility Library for working with arrays, numbers, objects, strings etc. It offers quick, out of the box solutions for manipulating these data types. 
+Lodash is a Javascript Utility Library for working with arrays, numbers, objects, strings etc. It offers quick, out of the box solutions for manipulating these data types.
 
 ## Codecademy Project
 As part of the codecademy Javascript Course, we recreated modules of the Lodash Library using Vanilla Javascript Functions, on a single object. The main module is called _.js
