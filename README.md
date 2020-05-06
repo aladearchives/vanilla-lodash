@@ -7,6 +7,9 @@ Lodash is a Javascript Utility Library for working with arrays, numbers, objects
 ## Codecademy Project
 As part of the codecademy Javascript Course, we recreated modules of the Lodash Library using Vanilla Javascript Functions, on a single object. The main module is called _.js
 
+## Requirements
+Node.js
+
 ## Testing
 The Testing folder should be run on Node and there is a test for every method in the main object module. 
 
